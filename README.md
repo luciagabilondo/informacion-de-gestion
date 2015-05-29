@@ -1,4 +1,3 @@
-# informacion-de-gestion
 <?xml version="1.0" encoding="UTF-8"?>
 <Module>
 <ModulePrefs title="menu portal BBVA1" >
@@ -289,21 +288,31 @@
         
         <div id="menu">
                 <ul id="dropline">
-                        <li class="home"><a style="color:#fff;width:10px;margin-left:5px;" href="https://sites.google.com/a/bbva.com/gtb-informacion-de-gestion/" target="_parent" onclick="mark"></a></li>
+                        <li class="home"><a style="color:#fff;width:10px;margin-left:5px;" href="https://sites.google.com/a/bbva.com/gtb-bankers/" target="_parent" onclick="mark"></a></li>
                           </li>
-                        <li class="top"><a id="Desarrollo de negocio" class="principal" href="https://sites.google.com/a/bbva.com/gtb-informacion-de-gestion/desarrollo-de-negocio" target="_parent">Desarrollo de negocio</a>
+                        <li class="top"><a id="Reports" class="principal" href="https://sites.google.com/a/bbva.com/gtb-bankers/informes" target="_parent">Reports</a>
                         
                         </li>
-                         <li class="top"><a id="Estrategia" class="principal" href="https://sites.google.com/a/bbva.com/gtb-informacion-de-gestion/estrategia" target="_parent">Estrategia</a>
+                         <li class="top"><a id="Template" class="principal" href="https://sites.google.com/a/bbva.com/gtb-bankers/tbsd-edit" target="_parent">Template</a>
                         
                         </li>
                         
-                        <li class="top"><a id="Proyectos" class="principal" href="https://sites.google.com/a/bbva.com/gtb-informacion-de-gestion/proyectos" target="_parent">Proyectos</a>
+                        <li class="top"><a id="Viewer" class="principal" href="https://sites.google.com/a/bbva.com/gtb-bankers/tbsd-viewer" target="_parent">Viewer</a>
                       
                           
                         </li>
-                    
+                        <li class="top"><a id="Statistic" class="principal" href="https://sites.google.com/a/bbva.com/gtb-bankers/tbsd-statistic" target="_parent">Statistic</a>
+                       
+             
+                        </li>
                         
+                     
+                        
+                         <li class="top"><a id="Generalinformation" class="principal" href="https://sites.google.com/a/bbva.com/gtb-bankers/portada" target="_parent">General Information</a>
+                        
+             
+                        
+                        </li>
                          
                         
                 </ul>
